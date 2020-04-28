@@ -1,0 +1,22 @@
+tasks
+260
+
+ntemp
+20
+mustar
+0.15
+
+wplot
+1000 1 1
+-0.5 0.5
+sppath
+'/u/fs1/mjh261/bin/elk-6.2.8/species/'
+atoms
+1
+'La.in'
+1
+0 0 0 0 0 0
+avec
+1 0 0
+0 1 0
+0 0 1
